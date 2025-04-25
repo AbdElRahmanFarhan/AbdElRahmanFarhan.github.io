@@ -17,16 +17,21 @@ title="E-waste" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
 allowfullscreen></iframe>
 -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4QgSiGciNaM" 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/62MTDgTppc" 
 title="E-waste" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
+
+* Description: To extract precious components from waste laptops, we build an autonomous disassembly system. This system will maximise the extracted output compared to traditional shredding methods.
+* My contributions: I mainly contributed to the robotics software stack. From hardware integration to force control to task planning.
 
 
 &nbsp;
 
-### LiDAR-SLAM + Radiance Fields
+### LiDAR-SLAM with Radiance Fields
 <iframe src="https://drive.google.com/file/d/1eoNPhTmsV6DeehVJ_K99gvGUSCbHaalJ/preview" width="560" height="315" allow="autoplay"></iframe>
 
+* Description: Research the use of NeRFs and Gaussian Splatting with LiDAR SLAM
+* My contributions: Implemented a LiDAR bundle adjustment method based on Neural Distance Fields.
 <!--
 ### Visual Anomaly Detection for Industrial Inspection
 <iframe src="https://drive.google.com/file/d/18piHPMOHiVuw4_q67KtvMg55_synpeVa/preview" width="560" height="315" allow="autoplay"></iframe>
