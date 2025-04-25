@@ -33,6 +33,8 @@ allowfullscreen></iframe>
 * Description: Achieve higher accuracy in LiDAR SLAM by utilising NeRFs and Gaussian Splatting.
 * My contributions: LiDAR bundle adjustment method based on Neural Distance Fields.
 
+&nbsp;
+
 
 ### Visual Anomaly Detection for Industrial Inspection
 
