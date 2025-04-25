@@ -34,13 +34,13 @@ allowfullscreen></iframe>
 * My contributions: LiDAR bundle adjustment method based on Neural Distance Fields.
 
 
-<!--
 ### Visual Anomaly Detection for Industrial Inspection
+
 <iframe src="https://drive.google.com/file/d/18piHPMOHiVuw4_q67KtvMg55_synpeVa/preview" width="560" height="315" allow="autoplay"></iframe>
--->
+* Description: Survey on recent anomaly detection methods on industrial inspection tasks.
+* My contributions: Trained different anomaly detection models (GANs, VAEs, ViT, Diffusion Models, Normalizing Flow) on different industrial inspection datasets to get insights of current SOTA models.
 
 &nbsp;
-
 
 ## Experiences
 * Robert Bosch GmbH (Aug 2023 - Feb 2025) 
