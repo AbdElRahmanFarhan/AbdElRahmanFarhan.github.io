@@ -23,7 +23,7 @@ allowfullscreen></iframe>
 
 
 ### Visual Anomaly Detection for Industrial Inspection
-
+<iframe src="https://drive.google.com/file/d/18piHPMOHiVuw4_q67KtvMg55_synpeVa/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
 ## Experiences:
