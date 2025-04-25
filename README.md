@@ -1,4 +1,4 @@
-[![Github](icons/github.png)]([https://example.com](https://github.com/AbdElRahmanFarhan)) [![Linkedin](icons/linkedin.png)](https://www.linkedin.com/in/abdelrahman-farhan-34916814a/) [![scholar](icons/scholar.png)](https://scholar.google.com/citations?hl=en&user=SLBDzBsAAAAJ) [![Github](icons/upwork.png)](https://www.upwork.com/freelancers/~0132b997a49fc109e7) 
+[![Github](icons/github.png)](https://github.com/AbdElRahmanFarhan) [![Linkedin](icons/linkedin.png)](https://www.linkedin.com/in/abdelrahman-farhan-34916814a/) [![scholar](icons/scholar.png)](https://scholar.google.com/citations?hl=en&user=SLBDzBsAAAAJ) [![Github](icons/upwork.png)](https://www.upwork.com/freelancers/~0132b997a49fc109e7) [![Email](icons/email.png)](mailto:abdelrahman.farhan1996@gmail.com) 
 
 ## About Me
 I write code that lets robots perceive, think, move, and interact—whether it’s a robotic arm, an autonomous car, or a humanoid. I’m passionate about programming intelligent machines that operate in the real world alongside humans.
