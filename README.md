@@ -7,6 +7,7 @@ I write code that lets robots perceive, think, move, and interactâ€”whether itâ€
 
 
 ## Projects I am proud of:
+
 ### Autonomous Disassembly of E-waste
 
 <!--
@@ -20,29 +21,40 @@ title="E-waste" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
 allowfullscreen></iframe>
 
 
+
 ### LiDAR-SLAM + Radiance Fields
 <iframe src="https://drive.google.com/file/d/1eoNPhTmsV6DeehVJ_K99gvGUSCbHaalJ/preview" width="560" height="315" allow="autoplay"></iframe>
 
-
+<!--
 ### Visual Anomaly Detection for Industrial Inspection
 <iframe src="https://drive.google.com/file/d/18piHPMOHiVuw4_q67KtvMg55_synpeVa/preview" width="560" height="315" allow="autoplay"></iframe>
+-->
 
 
-## Experiences:
+## Experiences
 * Bosch
+  * Neural Reconstruction for LiDAR SLAM
+  * Autonomous Driving Motion Planning Testing
 * Circu Li-ion
+  * Disassembly of batteries using ABB robots.
 * Ain Shams University
+  * Research Assistant
+  * Teaching Assistant
 * Upwork
+  * Delivered more than 10 projects for clients worldwide
+  * Projects spanning manipulation, mobile robots, both in simulation and in real world.
 
-## Publications
 
 ## Education
+* MSc. Autonomous Systems, Hochschule Bonn-Rhein-Sieg, Germany
+* BSc. Mechatronics Engineering, Ain Shams University, Egypt
 
-Skills:
-* Manipulation
-* SLAM
-* Computer Vision
-* Autonomous Driving
+## Fields of Experience
+* Manipulation: Tactile Sensing, Trajectory Planning
+* 3D Perception: 3D LiDAR SLAM, Point Cloud Registration, Gaussian Splatting, Neural Radiance Fields
+* Computer Vision: Visual Anomaly Detection
 
-  Technical Skills:
-  * ROS 1/2
+## Technologies
+* Robotics: ROS 1/2, Moveit, Gazebo, ABB RobotStudio, Nvidia Jetson
+* Software Development: C++, Python, CMake, Docker, Linux, Agile, Git, CI/CD, Unit Testing
+* Computer Vision: OpenCV, PCL, Open3D, Pytorch
