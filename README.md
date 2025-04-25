@@ -4,6 +4,7 @@
 I write code that lets robots perceive, think, move, and interact—whether it’s a robotic arm, an autonomous car, or a humanoid. I’m passionate about programming intelligent machines that operate in the real world alongside humans.
 
 
+&nbsp;
 
 
 ## Featured Projects
@@ -49,20 +50,29 @@ allowfullscreen></iframe>
 * Upwork (Mar 2020 - Mar 2023) 
   * Delivered robotics solutions, from hardware integration to high-level tasks, to more than 15 clients worldwide.
 
+&nbsp;
 
 ## Education
 * MSc. Autonomous Systems, Hochschule Bonn-Rhein-Sieg, Germany
 * BSc. Mechatronics Engineering, Ain Shams University, Egypt
+
+&nbsp;
+
 
 ## Fields of Experience
 * Manipulation: Tactile Sensing, Trajectory Planning
 * 3D Perception: 3D LiDAR SLAM, Point Cloud Registration, Gaussian Splatting, Neural Radiance Fields
 * Computer Vision: Visual Anomaly Detection
 
+&nbsp;
+
 ## Technologies
 * Robotics: ROS 1/2, Moveit, Gazebo, ABB RobotStudio, Nvidia Jetson
 * Software Development: C++, Python, CMake, Docker, Linux, Agile, Git, CI/CD, Unit Testing
 * Computer Vision: OpenCV, PCL, Open3D, Pytorch
+
+  
+&nbsp;
 
 ## Hobbies
 * Chess
