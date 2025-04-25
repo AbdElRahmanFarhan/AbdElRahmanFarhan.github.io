@@ -37,16 +37,15 @@ allowfullscreen></iframe>
   * Tested motion planning algorithms for level 4 autonomous driving.
     
 * Circu Li-ion (Oct 2022 - Mar 2023) 
-  * Disassembly of batteries using ABB robots.
-  * 
- 
+  * Programmed ABB robots to disassemble EV batteries.
+
     
-* Ain Shams University
-  * Research Assistant
-  * Teaching Assistant
-* Upwork
-  * Delivered more than 10 projects for clients worldwide
-  * Projects spanning manipulation, mobile robots, both in simulation and in real world.
+* Robotics and Control Lab, Ain Shams University (Sep 2020 - Aug 2021) 
+  * Programmed ABB robots to autonomously disassemble laptops.
+  * Taught ROS for industrial robots.
+    
+* Upwork (Mar 2020 - Mar 2023) 
+  * Delivered robotics solutions, from hardware integration to high-level tasks, to more than 15 clients worldwide.
 
 
 ## Education
