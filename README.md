@@ -1,5 +1,5 @@
 ## About Me
-I write code that lets robots perceive, think, move, and interact—whether it’s a robotic arm, an autonomous car, a mobile platform, or a humanoid. I’m passionate about programming intelligent machines that operate in the real world alongside humans.
+I write code that lets robots perceive, think, move, and interact—whether it’s a robotic arm, an autonomous car, or a humanoid. I’m passionate about programming intelligent machines that operate in the real world alongside humans.
 
 
 
@@ -12,6 +12,7 @@ I write code that lets robots perceive, think, move, and interact—whether it�
 title="E-waste" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 -->
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4QgSiGciNaM" 
 title="E-waste" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
