@@ -7,7 +7,7 @@ I write code that lets robots perceive, think, move, and interactâ€”whether itâ€
 ## Projects I am proud of:
 ### Autonomous Disassembly of E-waste
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=DrsZcyIvMZc" 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DrsZcyIvMZc" 
 title="E-waste" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 
