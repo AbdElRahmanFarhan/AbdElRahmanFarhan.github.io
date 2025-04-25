@@ -7,12 +7,18 @@ I write code that lets robots perceive, think, move, and interactâ€”whether itâ€
 ## Projects I am proud of:
 ### Autonomous Disassembly of E-waste
 
+<!--
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DrsZcyIvMZc" 
+title="E-waste" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4QgSiGciNaM" 
 title="E-waste" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 
 
 ### LiDAR-SLAM + Radiance Fields
+<iframe src="https://drive.google.com/file/d/1eoNPhTmsV6DeehVJ_K99gvGUSCbHaalJ/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
 ### Visual Anomaly Detection for Industrial Inspection
