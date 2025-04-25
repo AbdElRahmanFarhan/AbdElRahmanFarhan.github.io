@@ -21,6 +21,7 @@ title="E-waste" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
 allowfullscreen></iframe>
 
 
+&nbsp;
 
 ### LiDAR-SLAM + Radiance Fields
 <iframe src="https://drive.google.com/file/d/1eoNPhTmsV6DeehVJ_K99gvGUSCbHaalJ/preview" width="560" height="315" allow="autoplay"></iframe>
@@ -29,6 +30,7 @@ allowfullscreen></iframe>
 ### Visual Anomaly Detection for Industrial Inspection
 <iframe src="https://drive.google.com/file/d/18piHPMOHiVuw4_q67KtvMg55_synpeVa/preview" width="560" height="315" allow="autoplay"></iframe>
 -->
+&nbsp;
 
 
 ## Experiences
@@ -61,3 +63,9 @@ allowfullscreen></iframe>
 * Robotics: ROS 1/2, Moveit, Gazebo, ABB RobotStudio, Nvidia Jetson
 * Software Development: C++, Python, CMake, Docker, Linux, Agile, Git, CI/CD, Unit Testing
 * Computer Vision: OpenCV, PCL, Open3D, Pytorch
+
+## Hobbies
+* Chess
+* Ping-pong
+* Hiking
+* Programming robots
