@@ -6,7 +6,7 @@ I write code that lets robots perceive, think, move, and interactâ€”whether itâ€
 
 
 
-## Projects I am proud of:
+## Featured Projects
 
 ### Autonomous Disassembly of E-waste
 
@@ -32,11 +32,15 @@ allowfullscreen></iframe>
 
 
 ## Experiences
-* Bosch
-  * Neural Reconstruction for LiDAR SLAM
-  * Autonomous Driving Motion Planning Testing
-* Circu Li-ion
+* Robert Bosch GmbH (Aug 2023 - Feb 2025) 
+  * Researched Neural Reconstruction for LiDAR SLAM.
+  * Tested motion planning algorithms for level 4 autonomous driving.
+    
+* Circu Li-ion (Oct 2022 - Mar 2023) 
   * Disassembly of batteries using ABB robots.
+  * 
+ 
+    
 * Ain Shams University
   * Research Assistant
   * Teaching Assistant
